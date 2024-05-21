@@ -1,5 +1,6 @@
 # Anti-Kick
 ### About
+See patch-1 of this repository.
 
 This script prevents you from being kicked after being detected by an Anti Cheat system in any game. This script has also been tested and has been proven to work 100% of the time. This is a universal script that works in every and any game.
 
